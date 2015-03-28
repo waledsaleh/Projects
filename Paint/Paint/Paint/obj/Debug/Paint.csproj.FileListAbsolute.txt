@@ -1,0 +1,12 @@
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\waled\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.pdb
+E:\My game's\Projects\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+E:\My game's\Projects\Projects\Paint\Paint\obj\Debug\Paint.exe
+E:\My game's\Projects\Projects\Paint\Paint\obj\Debug\Paint.pdb

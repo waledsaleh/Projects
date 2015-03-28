@@ -1,0 +1,22 @@
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\ResolveAssemblyReference.cache
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type_learning.Form1.resources
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type_learning.Properties.Resources.resources
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type learning.csproj.GenerateResource.Cache
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\bin\Debug\Type learning.exe
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\bin\Debug\Type learning.pdb
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type learning.exe
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type learning.pdb
+I:\C#\C#\Type learning\Type learning\obj\Debug\Type learning.exe
+I:\C#\C#\Type learning\Type learning\obj\Debug\Type learning.pdb
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type learning.exe
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type learning.pdb
+E:\My game's\Projects\Projects\Type learning\Type learning\bin\Debug\Type learning.exe.manifest
+E:\My game's\Projects\Projects\Type learning\Type learning\bin\Debug\Type learning.application
+E:\My game's\Projects\Projects\Type learning\Type learning\bin\Debug\Type learning.exe
+E:\My game's\Projects\Projects\Type learning\Type learning\bin\Debug\Type learning.pdb
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type learning.csprojResolveAssemblyReference.cache
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type_learning.Form1.resources
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type_learning.Properties.Resources.resources
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type learning.csproj.GenerateResource.Cache
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type learning.exe.manifest
+E:\My game's\Projects\Projects\Type learning\Type learning\obj\Debug\Type learning.application

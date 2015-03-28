@@ -1,0 +1,16 @@
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Font\Font.xnb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Photo\2_Player.xnb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Photo\1_Player.xnb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Photo\ball.xnb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Ball.exe.manifest
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Ball.application
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Ball.exe
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Ball.pdb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\obj\x86\Debug\Ball.csprojResolveAssemblyReference.cache
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\obj\x86\Debug\Ball.exe.manifest
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\obj\x86\Debug\Ball.application
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\obj\x86\Debug\Ball.exe
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\obj\x86\Debug\Ball.pdb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Sound\feeler release.xnb
+C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Sound\next level.xnb

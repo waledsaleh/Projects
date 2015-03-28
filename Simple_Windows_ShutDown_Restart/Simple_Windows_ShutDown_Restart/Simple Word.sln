@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleShutDown", "Simple Word\SimpleShutDown.csproj", "{B322857C-A087-421D-8693-F35890A1F036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B322857C-A087-421D-8693-F35890A1F036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B322857C-A087-421D-8693-F35890A1F036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B322857C-A087-421D-8693-F35890A1F036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B322857C-A087-421D-8693-F35890A1F036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

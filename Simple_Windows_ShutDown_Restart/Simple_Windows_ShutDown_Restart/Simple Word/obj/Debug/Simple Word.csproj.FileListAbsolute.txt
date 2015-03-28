@@ -1,0 +1,9 @@
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\bin\Debug\Simple Word.exe.config
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\bin\Debug\Simple Word.exe
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\bin\Debug\Simple Word.pdb
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\obj\Debug\Simple Word.csprojResolveAssemblyReference.cache
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\obj\Debug\Simple_Word.Form1.resources
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\obj\Debug\Simple_Word.Properties.Resources.resources
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\obj\Debug\Simple Word.csproj.GenerateResource.Cache
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\obj\Debug\Simple Word.exe
+c:\users\waled\documents\visual studio 2012\Projects\Simple Word\Simple Word\obj\Debug\Simple Word.pdb

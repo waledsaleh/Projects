@@ -1,0 +1,12 @@
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe.config
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.pdb
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csprojResolveAssemblyReference.cache
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.Form1.resources
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.Properties.Resources.resources
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csproj.GenerateResource.Cache
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.exe
+c:\users\waled\documents\visual studio 2012\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.pdb
+E:\My game's\Projects\Projects\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe.config
+E:\My game's\Projects\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.exe
+E:\My game's\Projects\Projects\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.pdb

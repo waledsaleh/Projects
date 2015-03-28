@@ -1,0 +1,11 @@
+pick
+quit
+opaque
+equip
+plaque
+quick
+step
+parquet
+picture
+applique
+piquant

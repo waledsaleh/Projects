@@ -1,0 +1,37 @@
+c:\users\waled\documents\visual studio 2012\Projects\game\game\bin\Debug\game.exe.config
+c:\users\waled\documents\visual studio 2012\Projects\game\game\bin\Debug\game.exe
+c:\users\waled\documents\visual studio 2012\Projects\game\game\bin\Debug\game.pdb
+c:\users\waled\documents\visual studio 2012\Projects\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+c:\users\waled\documents\visual studio 2012\Projects\game\game\obj\Debug\game.Form1.resources
+c:\users\waled\documents\visual studio 2012\Projects\game\game\obj\Debug\game.Properties.Resources.resources
+c:\users\waled\documents\visual studio 2012\Projects\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+c:\users\waled\documents\visual studio 2012\Projects\game\game\obj\Debug\game.exe
+c:\users\waled\documents\visual studio 2012\Projects\game\game\obj\Debug\game.pdb
+C:\Users\ahmed\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\ahmed\Desktop\game\game\obj\Debug\game.exe
+C:\Users\ahmed\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\ahmed\Desktop\game\game\bin\Debug\game.exe
+C:\Users\ahmed\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\ahmed\Desktop\game\game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\ahmed\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\ahmed\Desktop\game\game\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ahmed\Desktop\game\game\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\waled\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\waled\Desktop\game\game\obj\Debug\game.exe
+C:\Users\waled\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\waled\Desktop\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\waled\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\waled\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\waled\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\waled\Desktop\game\game\bin\Debug\game.exe
+C:\Users\waled\Desktop\game\game\bin\Debug\game.pdb
+E:\My game's\game_1\game\bin\Debug\game.exe.config
+E:\My game's\game_1\game\obj\Debug\game.exe
+E:\My game's\game_1\game\obj\Debug\game.pdb
+E:\My game's\game_1\game\bin\Debug\game.exe
+E:\My game's\game_1\game\bin\Debug\game.pdb
+E:\My game's\game_1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+E:\My game's\game_1\game\obj\Debug\game.Form1.resources
+E:\My game's\game_1\game\obj\Debug\game.Properties.Resources.resources
+E:\My game's\game_1\game\obj\Debug\game.csproj.GenerateResource.Cache

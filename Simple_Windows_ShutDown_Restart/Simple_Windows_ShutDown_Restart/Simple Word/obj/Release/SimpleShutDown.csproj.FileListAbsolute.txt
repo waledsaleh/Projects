@@ -1,0 +1,9 @@
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\bin\Release\Simple Word.exe.config
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\bin\Release\Simple Word.exe
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\bin\Release\Simple Word.pdb
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\obj\Release\SimpleShutDown.csprojResolveAssemblyReference.cache
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\obj\Release\Simple_Word.Form1.resources
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\obj\Release\Simple_Word.Properties.Resources.resources
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\obj\Release\SimpleShutDown.csproj.GenerateResource.Cache
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\obj\Release\Simple Word.exe
+E:\My game's\Projects\Projects\Simple_Windows_ShutDown_Restart\Simple Word\obj\Release\Simple Word.pdb

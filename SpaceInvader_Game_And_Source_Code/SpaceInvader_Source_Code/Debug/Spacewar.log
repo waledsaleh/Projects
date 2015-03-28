@@ -1,0 +1,33 @@
+﻿Build started 7/24/2014 11:20:23 PM.
+     1>Project "C:\Users\waled\Desktop\New folder\Spacewar\Spacewar.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft DirectX SDK (June 2010)\\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt spacewar.cpp
+         spacewar.cpp
+     1>c:\users\waled\desktop\new folder\spacewar\spacewar.cpp(103): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\waled\desktop\new folder\spacewar\spacewar.cpp(105): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\waled\desktop\new folder\spacewar\spacewar.cpp(334): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\waled\Desktop\New folder\Spacewar\Debug\Spacewar.exe" /NOLOGO /LIBPATH:"C:\Program Files\Microsoft DirectX SDK (June 2010)\\Lib\x86" d3d9.lib d3dx9.lib winmm.lib xinput.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\waled\Desktop\New folder\Spacewar\Debug\Spacewar.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\waled\Desktop\New folder\Spacewar\Debug\Spacewar.lib" /MACHINE:X86 /SAFESEH Debug\Spacewar1.res
+         Debug\audio.obj
+         Debug\console.obj
+         Debug\dashboard.obj
+         Debug\entity.obj
+         Debug\game.obj
+         Debug\graphics.obj
+         Debug\inputDialog.obj
+         Debug\messageDialog.obj
+         Debug\spacewar.obj
+         Debug\textureManager.obj
+         Debug\input.obj
+         Debug\planet.obj
+         Debug\ship.obj
+         Debug\image.obj
+         Debug\textDX.obj
+         Debug\torpedo.obj
+         Debug\winmain.obj
+         Spacewar.vcxproj -> C:\Users\waled\Desktop\New folder\Spacewar\Debug\Spacewar.exe
+     1>Done Building Project "C:\Users\waled\Desktop\New folder\Spacewar\Spacewar.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.56

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font\Font.spritefont</Source>
+      <Name>Font\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Font\Font.xnb</Output>
+      <Time>2014-02-18T18:48:16.9105047+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Photo\2_Player.png</Source>
+      <Name>Photo\2_Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Photo\2_Player.xnb</Output>
+      <Time>2014-02-22T16:57:24.8262493+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Photo\1_Player.png</Source>
+      <Name>Photo\1_Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Photo\1_Player.xnb</Output>
+      <Time>2014-02-22T16:57:17.7468444+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Photo\ball.png</Source>
+      <Name>Photo\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Photo\ball.xnb</Output>
+      <Time>2014-02-22T17:32:24.2143274+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\feeler release.wav</Source>
+      <Name>Sound\feeler release</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Sound\feeler release.xnb</Output>
+      <Time>2014-03-06T22:09:03.7856921+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\next level.wav</Source>
+      <Name>Sound\next level</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\Sound\next level.xnb</Output>
+      <Time>2014-03-06T22:16:01.220568+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\TrianContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\TrianContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\waled\documents\visual studio 2010\Projects\Trian\Trian\Trian\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-07T17:40:01.9753823+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

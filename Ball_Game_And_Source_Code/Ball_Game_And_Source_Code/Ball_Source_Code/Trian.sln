@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball", "Trian\Trian\Ball.csproj", "{3CBA04C3-7FCA-4009-B606-37D3B3F09DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallContent", "Trian\TrianContent\BallContent.contentproj", "{595258BB-AF40-4D44-A25F-C02499C54D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBA04C3-7FCA-4009-B606-37D3B3F09DFA}.Debug|x86.ActiveCfg = Debug|x86
+		{3CBA04C3-7FCA-4009-B606-37D3B3F09DFA}.Debug|x86.Build.0 = Debug|x86
+		{3CBA04C3-7FCA-4009-B606-37D3B3F09DFA}.Release|x86.ActiveCfg = Release|x86
+		{3CBA04C3-7FCA-4009-B606-37D3B3F09DFA}.Release|x86.Build.0 = Release|x86
+		{595258BB-AF40-4D44-A25F-C02499C54D72}.Debug|x86.ActiveCfg = Debug|x86
+		{595258BB-AF40-4D44-A25F-C02499C54D72}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

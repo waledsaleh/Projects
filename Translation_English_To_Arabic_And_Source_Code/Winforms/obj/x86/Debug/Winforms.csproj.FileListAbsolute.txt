@@ -1,0 +1,24 @@
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\bin\Debug\Winforms.exe
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\bin\Debug\Winforms.pdb
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.Form1.resources
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.Properties.Resources.resources
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.csproj.GenerateResource.Cache
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.exe
+c:\users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.pdb
+C:\Users\waled\documents\visual studio 2010\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.csprojResolveAssemblyReference.cache
+F:\eclipse java\New folder\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.exe
+F:\eclipse java\New folder\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.pdb
+F:\eclipse java\New folder\Projects\Winforms\Winforms\bin\Debug\Winforms.exe
+F:\eclipse java\New folder\Projects\Winforms\Winforms\bin\Debug\Winforms.pdb
+F:\eclipse java\New folder\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.csprojResolveAssemblyReference.cache
+F:\eclipse java\New folder\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.Form1.resources
+F:\eclipse java\New folder\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.Properties.Resources.resources
+F:\eclipse java\New folder\Projects\Winforms\Winforms\obj\x86\Debug\Winforms.csproj.GenerateResource.Cache
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\obj\x86\Debug\Winforms.exe
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\obj\x86\Debug\Winforms.pdb
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\bin\Debug\Winforms.exe
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\bin\Debug\Winforms.pdb
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\obj\x86\Debug\Winforms.csprojResolveAssemblyReference.cache
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\obj\x86\Debug\Winforms.Form1.resources
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\obj\x86\Debug\Winforms.Properties.Resources.resources
+E:\My game's\Projects\Projects\Translation_English_To_Arabic_And_Source_Code\Winforms\obj\x86\Debug\Winforms.csproj.GenerateResource.Cache

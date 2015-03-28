@@ -1,0 +1,23 @@
+﻿Build started 10/26/2014 2:13:01 AM.
+     1>Project "E:\My game's\Projects\Projects\GameEngine\EnginePart1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft DirectX SDK (June 2010)\\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp graphics.cpp input.cpp spacewar.cpp winmain.cpp
+         winmain.cpp
+         spacewar.cpp
+         input.cpp
+         graphics.cpp
+         game.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\My game's\Projects\Projects\GameEngine\Debug\GameEngine.exe" /NOLOGO /LIBPATH:"C:\Program Files\Microsoft DirectX SDK (June 2010)\\Lib\x86" d3d9.lib d3dx9.lib winmm.lib xinput.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\My game's\Projects\Projects\GameEngine\Debug\GameEngine.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\My game's\Projects\Projects\GameEngine\Debug\GameEngine.lib" /MACHINE:X86 /SAFESEH Debug\game.obj
+         Debug\graphics.obj
+         Debug\input.obj
+         Debug\spacewar.obj
+         Debug\winmain.obj
+     1>game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         EnginePart1.vcxproj -> E:\My game's\Projects\Projects\GameEngine\Debug\GameEngine.exe
+     1>Done Building Project "E:\My game's\Projects\Projects\GameEngine\EnginePart1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.03
