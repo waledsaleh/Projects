@@ -1,0 +1,28 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\SpaceShooter\game\Space_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\SpaceShooter\game\Space_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\SpaceShooter\game\Space_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\SpaceShooter\game\Space_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.396 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 31.201727 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 160.
+Total: 3.934659 ms (FindLiveObjects: 0.009319 ms CreateObjectMapping: 0.013372 ms MarkObjects: 3.266456 ms  DeleteObjects: 0.008914 ms)
+
+UnloadTime: 0.389008 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 0.795036 ms (FindLiveObjects: 0.008509 ms CreateObjectMapping: 0.011346 ms MarkObjects: 0.219222 ms  DeleteObjects: 0.004052 ms)
+
