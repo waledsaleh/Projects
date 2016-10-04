@@ -1,0 +1,20 @@
+INFO AWT-EventQueue-0 logForm - welcome log-in user
+DEBUG AWT-EventQueue-0 dbConnect - Loading driver...
+INFO AWT-EventQueue-0 dbConnect - DataBase initialization Properties
+INFO AWT-EventQueue-0 dbConnect - Database connection established
+INFO AWT-EventQueue-0 logForm - Login Button
+INFO AWT-EventQueue-0 logForm - valid email method called
+DEBUG AWT-EventQueue-0 logForm - getting email address from user through Text field
+INFO AWT-EventQueue-0 logForm - method for checking email and pw
+DEBUG AWT-EventQueue-0 logForm - searching about email and pw in DataBase
+INFO AWT-EventQueue-0 YahooService - calling yahoo weather service method
+DEBUG AWT-EventQueue-0 logForm - email & pw are found
+INFO AWT-EventQueue-0 userScreen - weather status button clicked
+INFO AWT-EventQueue-0 YahooService - get channel method called
+INFO AWT-EventQueue-0 YahooService - get current city method called
+INFO AWT-EventQueue-0 YahooService - get country location method called
+INFO AWT-EventQueue-0 YahooService - get country temperature method called
+INFO AWT-EventQueue-0 YahooService - get weather condition state between specified ranges
+INFO AWT-EventQueue-0 YahooService - get country temperature method called
+INFO AWT-EventQueue-0 YahooService - wind speed method called
+INFO AWT-EventQueue-0 userScreen - system note button clicked
