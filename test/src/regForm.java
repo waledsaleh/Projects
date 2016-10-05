@@ -1,10 +1,6 @@
 
 import org.apache.log4j.Logger;
-
 import java.sql.*;
-
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class regForm extends javax.swing.JFrame {
   
@@ -167,7 +163,7 @@ public class regForm extends javax.swing.JFrame {
     private boolean findEmail(String email) {
 
         log.info("find-email method called");
-        
+        log.debug("email parameter= user email address"); 
         String queryCheck = "SELECT * from users WHERE Email = ?";
         try {
             //Used PreparedStatement to avoid these sorts of issues and any risk of SQL injection
