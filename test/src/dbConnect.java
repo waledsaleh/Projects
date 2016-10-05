@@ -53,6 +53,8 @@ public class dbConnect {
  }
     // disconnect database
     public  static void disconnect() {
+         log.info("DataBase disconnection method called");
+         
         if (connection != null) {
             try {
                 log.info("DisConnect DataBase function");
