@@ -33,6 +33,7 @@ There are some diagrams in `/Doc/*.uxf`. Use [UMLet](http://www.umlet.com/) to v
     }
 2- Collision with board 
 3- Collision with obstacles. Obstacles in this game are designed as trees in game
+4- view gameOver Text when collision detected in game and pause game.
 
 
 
