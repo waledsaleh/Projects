@@ -4,7 +4,7 @@
 
 This is unfinished remake of classical Snake arcade using Unity. It may provide a base for your game. **I don't develop it anymore.**
 
-Watch original video:
+Watch original video before changes:
 
 <a href="https://youtu.be/J52BppOl9pE">
 ![Screenshot.jpg](Screenshot.jpg)
