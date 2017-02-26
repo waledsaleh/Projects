@@ -1,0 +1,10 @@
+- Web
+    - Сайт
+        - Статистика об онлайне
+    - AWS
+        - Настроить MFA для root
+        - Identity Access Management
+        - CodeCommit
+            - Hooks to CI
+        - CI
+        - CloudFront CDN

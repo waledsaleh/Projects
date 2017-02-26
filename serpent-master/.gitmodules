@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/_3rd party/UnityOctree"]
+	path = Assets/Scripts/_3rd party/UnityOctree
+	url = git@bitbucket.org:perevezentsev/unityoctree.git

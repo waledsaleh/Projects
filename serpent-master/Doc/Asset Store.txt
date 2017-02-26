@@ -1,0 +1,36 @@
+For levels:
+    Low-poly:
+https://www.assetstore.unity3d.com/en/#!/content/34894 - Poly Planets
+https://www.assetstore.unity3d.com/en/#!/content/46375 - (WITH SCENE) Low Poly's Pack vol. 1
+https://www.assetstore.unity3d.com/en/#!/content/61922 - Low-Poly Park
+https://www.assetstore.unity3d.com/en/#!/content/43103 - Low poly styled trees
+https://www.assetstore.unity3d.com/en/#!/content/43486 - Low poly styled rocks
+https://www.assetstore.unity3d.com/en/#!/content/58821 - Low Poly: Free Pack
+https://www.assetstore.unity3d.com/en/#!/content/66146 - Nature Pack (Extended)
+https://www.assetstore.unity3d.com/en/#!/list/10940-free-low-poly-and-voxel (LIST)
+https://www.assetstore.unity3d.com/en/#!/list/15178-lowpoly
+https://www.assetstore.unity3d.com/en/#!/list/10916-project
+    Toon:
+https://www.assetstore.unity3d.com/en/#!/content/66124 - Toon Forest Free Set
+https://www.assetstore.unity3d.com/en/#!/content/56048 - Glowing Stylized Mushroom
+
+https://www.assetstore.unity3d.com/en/#!/content/24256 - LINQ to GameObject
+
+Object pools:
+https://www.assetstore.unity3d.com/en/#!/content/35666
+https://www.assetstore.unity3d.com/en/#!/content/21059
+https://www.assetstore.unity3d.com/en/#!/content/46097
+
+uEventDispatcher:
+https://www.assetstore.unity3d.com/en/#!/content/16332
+
+Lists:
+https://www.assetstore.unity3d.com/en/#!/list/13107-free-asset-mega-pack
+https://www.assetstore.unity3d.com/en/#!/list/2128-basic-utils
+
+Debug:
+https://www.assetstore.unity3d.com/en/#!/content/30739 - Debug panel
+https://www.assetstore.unity3d.com/en/#!/content/42381 - Console enhanced free
+
+IAP:
+https://www.assetstore.unity3d.com/en/#!/content/52851 - SDKBOX IAP

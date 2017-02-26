@@ -1,0 +1,16 @@
+class ... { // Any MonoBehaviour on snake
+    void Update() {
+        // ...
+
+        // Must be called after growth
+        foreach (otherSnake in snakes)
+            if (otherSnake.CheckCollisionWith(this.collider)) {
+                Die();
+                break;
+            }
+    }
+}
+
+class BodyCollider:
+    bool CheckCollisionsWith(Sphere sphere):
+        ...

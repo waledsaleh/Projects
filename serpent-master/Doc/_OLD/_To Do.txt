@@ -1,0 +1,22 @@
+Utility for finding hidden objects
+
+class PlanetGeometry:
+  • Properly dispose resources
+  • Interpolate height value in GetHeightAt()
+
+
+  • Fresnel shader (water and other objects)
+  • Cloudy skybox
+  • Hierarchical log system
+
+  • Does it make sense to calculate planet surface normals by hand rather let
+	it to be done by UnityEngine.Mesh.RecalculateNormals()? (Possible
+	improvement of quality)
+	  • Utilize normals-related code for HeadController
+
+
+───────────────────────────────────────────────────────────────────────────────
+
+							Before the release
+
+  • Include license texts for font and other resources
