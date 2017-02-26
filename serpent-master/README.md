@@ -2,7 +2,7 @@
  original link: https://github.com/ip/serpent
  What is this task for?
 
-This is unfinished remake of classical Snake arcade using Unity. It may provide a base for your game. **I don't develop it anymore.**
+This is unfinished remake of classical Snake arcade using Unity. It may provide a base for your game.
 
 Watch original video before changes:
 
