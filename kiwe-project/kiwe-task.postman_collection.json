@@ -1,0 +1,295 @@
+{
+	"id": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+	"name": "kiwe-task",
+	"description": "",
+	"order": [
+		"c2247aca-3e53-c0e5-9fe8-bfe58c445bd1",
+		"d67adc89-b89b-c228-f887-2540d85f5e29",
+		"40b09acb-e31c-4260-ad7d-5a010ec1be89",
+		"0c277671-8ab1-9bd0-6a58-ea1e9d0f5b86",
+		"f7d36131-eb0e-6884-520f-318bbe234f36",
+		"481fc3b0-1506-9960-da7c-3749a00134cc",
+		"2858eb3b-8173-a1fa-21ac-72762438ed42",
+		"fc276731-bcc6-0de5-24e5-43dda64649a9"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1603236686972,
+	"owner": "2102743",
+	"public": false,
+	"requests": [
+		{
+			"id": "0c277671-8ab1-9bd0-6a58-ea1e9d0f5b86",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:8080//user/resetPassword",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": [
+				{
+					"key": "username",
+					"value": "test2@email.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "http://localhost:8080//user/resetPassword",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236714577,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "2858eb3b-8173-a1fa-21ac-72762438ed42",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/sign-up",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:8080/sign-up",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236728113,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\n\t\"username\":\"test2@email.com\",\n\t\"password\":\"passwordpassword\",\n\t\"firstName\":\"waled\",\n\t\"lastName\": \"test\",\n\t\"age\": 18\n\t\n}"
+		},
+		{
+			"id": "40b09acb-e31c-4260-ad7d-5a010ec1be89",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjM0NTQ0LCJleHAiOjE2MDMyMzUxNDR9.C8cZbSH75kB8YSr6aJLk26GUCKiP4CJpX5ikjzemhzNQHXG1YSht_6Vh0PgU4Rxy3DYtSJP1mEWN1sNNOattdg\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjM0NTQ0LCJleHAiOjE2MDMyMzUxNDR9.C8cZbSH75kB8YSr6aJLk26GUCKiP4CJpX5ikjzemhzNQHXG1YSht_6Vh0PgU4Rxy3DYtSJP1mEWN1sNNOattdg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/create-product",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:8080/create-product",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236708628,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\n\t\"name\":\"product-name\",\n\t\"quantity\":1,\n\t\"category\":\"category-name\",\n\t\"images\":[\"images1\",\"images2\"]\n\n\t\n}"
+		},
+		{
+			"id": "481fc3b0-1506-9960-da7c-3749a00134cc",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjE5NzUyLCJleHAiOjE2MDMyMjAzNTJ9.6-hkmtrA9Z5f7lcrehpWA17BWfigUL9u0naReH44xNtgVrU_4hjHZUDaEZCuQAAoh73jEv3HYMdPKe0gr99RwQ\nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjE5NzUyLCJleHAiOjE2MDMyMjAzNTJ9.6-hkmtrA9Z5f7lcrehpWA17BWfigUL9u0naReH44xNtgVrU_4hjHZUDaEZCuQAAoh73jEv3HYMdPKe0gr99RwQ",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/logout-user",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": [
+				{
+					"key": "userId",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "http://localhost:8080/logout-user",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236724238,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c2247aca-3e53-c0e5-9fe8-bfe58c445bd1",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjM2NjE1LCJleHAiOjE2MDMyMzcyMTV9.D7NdEwxTWPZ75wqkgfrccFIXnjU31MGXMQo3rDA73FR3gPXvhcRgX7CSrEDN7PsXa0RILtvO01f7u5MMQ7tAOQ\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjM2NjE1LCJleHAiOjE2MDMyMzcyMTV9.D7NdEwxTWPZ75wqkgfrccFIXnjU31MGXMQo3rDA73FR3gPXvhcRgX7CSrEDN7PsXa0RILtvO01f7u5MMQ7tAOQ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/view-product",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://localhost:8080/view-product",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236697611,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "d67adc89-b89b-c228-f887-2540d85f5e29",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjM1MzM4LCJleHAiOjE2MDMyMzU5Mzh9.6TyUdS-yexYk-emgILW3htxS-N8JzWEtClnegPON1kuFxEG1p1L7eFhy-XDGQjUTjNgr9JoOeURXu9OazwBpLg\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJKV1QiLCJzdWIiOiJ0ZXN0MkBlbWFpbC5jb20iLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjAzMjM1MzM4LCJleHAiOjE2MDMyMzU5Mzh9.6TyUdS-yexYk-emgILW3htxS-N8JzWEtClnegPON1kuFxEG1p1L7eFhy-XDGQjUTjNgr9JoOeURXu9OazwBpLg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/get-product?productId=1",
+			"queryParams": [
+				{
+					"key": "productId",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://localhost:8080/get-product?productId=1",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236703716,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "f7d36131-eb0e-6884-520f-318bbe234f36",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/update-password",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:8080/update-password",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236720325,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\n\t\"oldPassword\":\"tolba\",\n\t\"token\":\"16c52b73-f2f4-489e-bc34-4fb8891499d7\",\n\t\"newPassword\":\"waleed\"\n}"
+		},
+		{
+			"id": "fc276731-bcc6-0de5-24e5-43dda64649a9",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/login",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "cf44b9cb-2e97-6d92-945d-b36c243892e5",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:8080/login",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1603236732640,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\n\t\"username\":\"test2@email.com\",\n\t\"password\":\"passwordpassword\"\n\t\n}"
+		}
+	]
+}
