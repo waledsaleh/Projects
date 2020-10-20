@@ -52,8 +52,8 @@ public class UserService implements IUser {
 
         // User userDb = userDao.findByEmailAndPassword(email, encodedPassword);
 
-        if (!bCryptPasswordEncoder.matches(password, encodedPassword))
-            throw new UserPasswordIsNotMatchedException("Email is exist, but password is wrong");
+//         if (!bCryptPasswordEncoder.matches(password, encodedPassword))
+//             throw new UserPasswordIsNotMatchedException("Email is exist, but password is wrong");
 
 //        if (userDb == null)
 //            throw new UserNotFoundException("Invalid Credentials");
